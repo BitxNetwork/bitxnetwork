@@ -2,7 +2,7 @@
 Bit-X Network Dividend Exchange
 
 ## What is BITX Exchange
-Bit-X Network Dividend exchange pays BITX token holders 10% dividends through buying/selling volume. Holders receive their ETH divs proportionally and instantly, relative to the total BITX circulating supply. Masternode Referral links earn you 3% of the total new purchase.
+Bit-X Network Dividend exchange pays BITX token holders 10% dividends through buying/selling volume. Holders receive their ETH divs proportionally and instantly, relative to the total BITX circulating supply. Masternode Referral links earn you 5% of the total new purchase.
 
 ## Specifications of BITX Network (BITX)
 * **Name**: BITX Network
