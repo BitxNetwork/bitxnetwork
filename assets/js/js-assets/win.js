@@ -90,6 +90,7 @@ function detectWeb3 () {
     web3js = new Web3(web3.currentProvider)
     web3Mode = 'metamask'
     currentAddress = web3js.eth.accounts[0]
+    web3js.eth.defaultAccount = currentAddress;
   } else {
     web3js = new Web3(new Web3.providers.HttpProvider('#'))
     web3Mode = 'direct'
